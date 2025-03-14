@@ -1,0 +1,18 @@
+﻿flask
+openai
+flask-session
+flask-mail
+itsdangerous
+python-dotenv
+stripe
+Flask-SQLAlchemy
+requests
+sqlalchemy
+werkzeug
+gunicorn
+psycopg2-binary  # Use the binary version for PostgreSQL compatibility
+PyJWT==2.8.0
+cohere
+google-cloud-texttospeech
+PyPDF2
+python-docx
